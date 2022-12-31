@@ -1,0 +1,82 @@
+/*inicio de fondo*/
+html {
+        background: url(images/fondo1.jpg) no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+/*fin de fondo*/
+
+/*inicion estilos menu*/
+#cssmenu{
+	padding:50px;
+	left:150px;
+	position:fixed;
+	top:-100px;
+}
+
+#cssmenu li{
+	display: inline;
+}
+
+#cssmenu li a {
+ font-family: calibri;
+ font-size: 20px;
+ float: left;
+ padding: 30px;
+ background-color: #000000;
+ color: white;
+ margin-top:100px;
+ width:200px;
+ opacity: 0.8;
+ }
+/*fin estilos menu*/
+
+/*inicio de logo*/
+
+#logo img{
+	width:170px;
+	padding:0px;
+	border-radius:100px;
+	position:fixed;
+	opacity:1;
+}
+
+#logo{
+	position:relative;
+	top:-250px;
+	width:170px;
+	opacity:1;
+}
+
+#logo1{
+	position:relative;
+	top:-350px;
+	width:170px;
+	opacity:1;
+}
+
+#logo1 img{
+	width:170px;
+	padding:0px;
+	border-radius:100px;
+	position:fixed;
+	opacity:1;
+}
+
+#logo2{
+	position:relative;
+	top:-150px;
+	width:170px;
+	opacity:1;
+}
+
+#logo2 img {
+	width:170px;
+	padding:0px;
+	border-radius:100px;
+	position:fixed;
+	opacity:1;
+}
+/*fin de logo*/
